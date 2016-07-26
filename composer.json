@@ -1,0 +1,14 @@
+{
+    "name": "helhum/test-package",
+    "description": "Test package to outline composer bug",
+    "authors": [
+        {
+            "name": "Helmut Hummel",
+            "email": "info@helhum.io"
+        }
+    ],
+    "replace": {
+    	"foo": "self.version"
+    },
+    "require": {}
+}
