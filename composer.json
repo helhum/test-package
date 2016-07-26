@@ -7,8 +7,5 @@
             "email": "info@helhum.io"
         }
     ],
-    "replace": {
-    	"foo": "self.version"
-    },
     "require": {}
 }
